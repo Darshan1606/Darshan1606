@@ -33,7 +33,7 @@
 
 ### 🤝 **Let's Connect!**  
 🔗 **LinkedIn:** [darshan-t-b2b5b31ab](https://www.linkedin.com/in/darshan-t-b2b5b31ab/)  
-🌐 **Portfolio:** [darshant](https://darshant.netlify.app/) 
+🌐 **Portfolio:** [darshant](https://darshant.netlify.app/)
 📫 **Email:** darshantarsariya17@gmail.com  
 
 ---
