@@ -1,5 +1,5 @@
 # 💻 **Darshan Tarsariya**  
-**🚀 Software Engineer**  
+**🚀 Software Engineer | React & Node.js Enthusiast | Tech Problem Solver**  
 
 🔭 *"Transforming ideas into scalable solutions with a pinch of creativity and a dash of code."*  
 
@@ -7,7 +7,7 @@
 
 ### 👨‍💻 **About Me**  
 - 💡 **1.5+ years** of experience in **web development** with a knack for building secure, user-friendly, and high-performance applications.  
-- 💼 Skilled in designing end-to-end solutions using **React.js**, **Node.js**, **Express.js**, **MongoDB** and **PostgreSQL**.  
+- 💼 Skilled in designing end-to-end solutions using **React.js**, **Node.js**, **Express.js**, and **MongoDB**.  
 - 🛠️ Passionate about integrating 3rd-party tools: **Stripe Payments**, **Amazon S3/SES**, **Firebase**, and more!  
 - 🔍 Constant learner exploring new tech and solving real-world problems through **projects**.  
 
@@ -26,6 +26,19 @@
 
 ---
 
+### 🚀 **Projects**  
+
+#### 1. **FinSquare – Expense Tracker**  
+- A personal finance tool to manage income and expenses efficiently with an intuitive dashboard for insights.  
+- 🛠️ **Tech Stack:** React, Node.js, Express, MongoDB  
+- 🔗 [View on GitHub](https://github.com/Darshan1606/Expense-Tracker)
+
+#### 2. **Dynamic Dashboards & Financial Reporting**  
+- Real-time dashboards integrated with **Socket.io** for live updates, generating PDF/Excel financial reports via cronjobs.  
+- Features **Stripe Treasury** for virtual payments and end-to-end encryption with **CryptoJS**.  
+
+---
+
 ### 📊 **My GitHub Stats**  
 ![Darshan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Darshan1606&show_icons=true&theme=tokyonight)  
 
@@ -33,7 +46,7 @@
 
 ### 🤝 **Let's Connect!**  
 🔗 **LinkedIn:** [darshan-t-b2b5b31ab](https://www.linkedin.com/in/darshan-t-b2b5b31ab/)  
-🌐 **Portfolio:** [darshant](https://darshant.netlify.app/)
+🌐 **Portfolio:** [Projects & Resume](https://drive.google.com/file/d/1Gn7yQf6E7n0mj1hCa8WQGznt6irq-jAJ/view?usp=sharing)  
 📫 **Email:** darshantarsariya17@gmail.com  
 
 ---
