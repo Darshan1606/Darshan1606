@@ -1,6 +1,8 @@
 # 💻 **Darshan Tarsariya**  
 **🚀 Software Engineer**  
 
+![Profile Views](https://komarev.com/ghpvc/?username=Darshan1606&style=flat-square&color=blue)  
+
 🔭 *"Transforming ideas into scalable solutions with a pinch of creativity and a dash of code."*  
 
 ---
