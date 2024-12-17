@@ -1,5 +1,5 @@
 # 💻 **Darshan Tarsariya**  
-**🚀 Software Engineer | React & Node.js Enthusiast | Tech Problem Solver**  
+**🚀 Software Engineer**  
 
 🔭 *"Transforming ideas into scalable solutions with a pinch of creativity and a dash of code."*  
 
