@@ -7,7 +7,7 @@
 
 ### 👨‍💻 **About Me**  
 - 💡 **1.5+ years** of experience in **web development** with a knack for building secure, user-friendly, and high-performance applications.  
-- 💼 Skilled in designing end-to-end solutions using **React.js**, **Node.js**, **Express.js**, and **MongoDB**.  
+- 💼 Skilled in designing end-to-end solutions using **React.js**, **Node.js**, **Express.js**, **MongoDB** and **PostgreSQL**.  
 - 🛠️ Passionate about integrating 3rd-party tools: **Stripe Payments**, **Amazon S3/SES**, **Firebase**, and more!  
 - 🔍 Constant learner exploring new tech and solving real-world problems through **projects**.  
 
